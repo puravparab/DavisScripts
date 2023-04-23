@@ -12,7 +12,7 @@ if len(sys.argv) != 2:
 	sys.exit(1)
 subject_code = sys.argv[1]
 
-url = url = f"https://catalog.ucdavis.edu/courses-subject-code/{subject_code}/"
+url = f"https://catalog.ucdavis.edu/courses-subject-code/{subject_code}/"
 
 response = requests.get(url)
 if response.status_code != 200:
@@ -43,10 +43,6 @@ for course in courses_list:
 	try: temp["prerequisites"] = course.find("p", class_="detail-prerequisite").text.strip()
 	except: temp["prerequisites"] = ""
 
-	# Get enrollement restrictions
-	try: temp["other"] = course.find("p", class_="toggle-content").text.strip()
-	except: temp["other"] = ""
-	
 	courses.append(temp)
 
 # Covert courses to JSON object
