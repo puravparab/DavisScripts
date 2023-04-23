@@ -1,7 +1,10 @@
 import sys
+import logging
+import json
 import requests
 from bs4 import BeautifulSoup as bs
-import json
+
+logging.basicConfig(level=logging.DEBUG)
 
 # Get URL from command line	
 if len(sys.argv) != 2:
@@ -12,7 +15,7 @@ subject_code = sys.argv[1]
 url = url = f"https://catalog.ucdavis.edu/courses-subject-code/{subject_code}/"
 
 response = requests.get(url)
-if response.ok != 200:
+if response.status_code != 200:
 	print(response)
 	sys.exit(1)
 
@@ -25,7 +28,25 @@ courses = []
 # Iterate through course list
 for course in courses_list:
 	temp = {}
+
+	# Get course code
+	temp["code"] = course.find("span", class_="detail-code").text.strip()
+	# Get course name
+	temp["name"] = course.find("span", class_="detail-title").text.strip()
+	# Get course credits
+	temp["credits"] = course.find("span", class_="detail-hours_html").text.strip()
+
+	# Get description
 	temp["description"] = course.find("p", class_="courseblockextra noindent").text.strip()
+
+	# Get prereqs
+	try: temp["prerequisites"] = course.find("p", class_="detail-prerequisite").text.strip()
+	except: temp["prerequisites"] = ""
+
+	# Get enrollement restrictions
+	try: temp["other"] = course.find("p", class_="toggle-content").text.strip()
+	except: temp["other"] = ""
+	
 	courses.append(temp)
 
 # Covert courses to JSON object
