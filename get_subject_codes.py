@@ -37,7 +37,7 @@ for subject in subject_list:
 		code = match.group(2)
 
 		temp["name"] = name
-		temp["code"] = code
+		temp["code"] = code.lower()
 
 	subjects.append(temp)
 
