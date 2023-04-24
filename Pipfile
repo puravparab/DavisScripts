@@ -6,6 +6,14 @@ name = "pypi"
 [packages]
 requests = "*"
 beautifulsoup4 = "*"
+notebook = "*"
+openai = "*"
+pandas = "*"
+python-dotenv = "*"
+matplotlib = "*"
+plotly = "*"
+scipy = "*"
+scikit-learn = "*"
 
 [dev-packages]
 

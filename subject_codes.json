@@ -1,0 +1,866 @@
+[
+    {
+        "name": "Aerospace Science &​ Engineering",
+        "code": "eae"
+    },
+    {
+        "name": "African American &​ African Studies",
+        "code": "aas"
+    },
+    {
+        "name": "Agricultural &​ Environmental Chemistry",
+        "code": "agc"
+    },
+    {
+        "name": "Agricultural &​ Environmental Technology",
+        "code": "tae"
+    },
+    {
+        "name": "Agricultural &​ Resource Econ",
+        "code": "are"
+    },
+    {
+        "name": "Agricultural Education",
+        "code": "aed"
+    },
+    {
+        "name": "American Studies",
+        "code": "ams"
+    },
+    {
+        "name": "Anatomy, Physiology, &​ Cell Biology",
+        "code": "apc"
+    },
+    {
+        "name": "Anesthesiology",
+        "code": "ane"
+    },
+    {
+        "name": "Animal Behavior",
+        "code": "anb"
+    },
+    {
+        "name": "Animal Biology",
+        "code": "abi"
+    },
+    {
+        "name": "Animal Biology Graduate",
+        "code": "abg"
+    },
+    {
+        "name": "Animal Genetics",
+        "code": "ang"
+    },
+    {
+        "name": "Animal Science",
+        "code": "ans"
+    },
+    {
+        "name": "Anthropology",
+        "code": "ant"
+    },
+    {
+        "name": "Applied Biological Systems Technology",
+        "code": "abt"
+    },
+    {
+        "name": "Applied Science Engineering-​Davis",
+        "code": "ead"
+    },
+    {
+        "name": "Arabic",
+        "code": "arb"
+    },
+    {
+        "name": "Art History",
+        "code": "ahi"
+    },
+    {
+        "name": "Art Studio",
+        "code": "art"
+    },
+    {
+        "name": "Asian American Studies",
+        "code": "asa"
+    },
+    {
+        "name": "Astronomy",
+        "code": "ast"
+    },
+    {
+        "name": "Atmospheric Science",
+        "code": "atm"
+    },
+    {
+        "name": "Avian Sciences",
+        "code": "avs"
+    },
+    {
+        "name": "Biochemistry, Molecular, Cellular, &​ Developmental Biology",
+        "code": "bcb"
+    },
+    {
+        "name": "Biological Chemistry",
+        "code": "bcm"
+    },
+    {
+        "name": "Biological Sciences",
+        "code": "bis"
+    },
+    {
+        "name": "Biological Systems Engineering",
+        "code": "ebs"
+    },
+    {
+        "name": "Biomedical Engineering",
+        "code": "bim"
+    },
+    {
+        "name": "Biophotonics",
+        "code": "bpt"
+    },
+    {
+        "name": "Biophysics",
+        "code": "bph"
+    },
+    {
+        "name": "Biostatistics",
+        "code": "bst"
+    },
+    {
+        "name": "Biotechnology",
+        "code": "bit"
+    },
+    {
+        "name": "Business Analytics",
+        "code": "bax"
+    },
+    {
+        "name": "Cardiology",
+        "code": "car"
+    },
+    {
+        "name": "Cell Biology &​ Human Anatomy",
+        "code": "cha"
+    },
+    {
+        "name": "Chemical Engineering",
+        "code": "ech"
+    },
+    {
+        "name": "Chemistry",
+        "code": "che"
+    },
+    {
+        "name": "Chicano Studies",
+        "code": "chi"
+    },
+    {
+        "name": "Chinese",
+        "code": "chn"
+    },
+    {
+        "name": "Cinema &​ Digital Media",
+        "code": "cdm"
+    },
+    {
+        "name": "Cinema &​ Technocultural Studies",
+        "code": "cts"
+    },
+    {
+        "name": "Civil &​ Environmental Engineering",
+        "code": "eci"
+    },
+    {
+        "name": "Classics",
+        "code": "cla"
+    },
+    {
+        "name": "Clinical Research",
+        "code": "clh"
+    },
+    {
+        "name": "Cognitive Science",
+        "code": "cgs"
+    },
+    {
+        "name": "College of Letters &​ Science",
+        "code": "lts"
+    },
+    {
+        "name": "Communication",
+        "code": "cmn"
+    },
+    {
+        "name": "Community &​ Regional Development",
+        "code": "crd"
+    },
+    {
+        "name": "Comparative Literature",
+        "code": "com"
+    },
+    {
+        "name": "Computer Science Engineering",
+        "code": "ecs"
+    },
+    {
+        "name": "Consumer Sciences",
+        "code": "cns"
+    },
+    {
+        "name": "Critical Theory",
+        "code": "cri"
+    },
+    {
+        "name": "Cultural Studies",
+        "code": "cst"
+    },
+    {
+        "name": "Dermatology",
+        "code": "der"
+    },
+    {
+        "name": "Design",
+        "code": "des"
+    },
+    {
+        "name": "Designated Emphasis, Biotechnology",
+        "code": "deb"
+    },
+    {
+        "name": "Dramatic Art",
+        "code": "dra"
+    },
+    {
+        "name": "East Asian Studies",
+        "code": "eas"
+    },
+    {
+        "name": "Ecology",
+        "code": "ecl"
+    },
+    {
+        "name": "Economics",
+        "code": "ecn"
+    },
+    {
+        "name": "Education",
+        "code": "edu"
+    },
+    {
+        "name": "Education Abroad Program",
+        "code": "eap"
+    },
+    {
+        "name": "Electrical &​ Computer Engineering",
+        "code": "eec"
+    },
+    {
+        "name": "Emergency Medicine",
+        "code": "emr"
+    },
+    {
+        "name": "Endocrinology &​ Metabolism",
+        "code": "enm"
+    },
+    {
+        "name": "Energy Systems",
+        "code": "egg"
+    },
+    {
+        "name": "Engineering",
+        "code": "eng"
+    },
+    {
+        "name": "English",
+        "code": "enl"
+    },
+    {
+        "name": "Entomology",
+        "code": "ent"
+    },
+    {
+        "name": "Environmental Horticulture",
+        "code": "enh"
+    },
+    {
+        "name": "Environmental Policy &​ Management",
+        "code": "env"
+    },
+    {
+        "name": "Environmental Science &​ Management",
+        "code": "esm"
+    },
+    {
+        "name": "Environmental Science &​ Policy",
+        "code": "esp"
+    },
+    {
+        "name": "Environmental Toxicology",
+        "code": "etx"
+    },
+    {
+        "name": "Epidemiology",
+        "code": "epi"
+    },
+    {
+        "name": "Evolution &​ Ecology",
+        "code": "eve"
+    },
+    {
+        "name": "Exercise Biology",
+        "code": "exb"
+    },
+    {
+        "name": "Exercise Science",
+        "code": "exs"
+    },
+    {
+        "name": "Family Practice",
+        "code": "fap"
+    },
+    {
+        "name": "Fiber &​ Polymer Science",
+        "code": "fps"
+    },
+    {
+        "name": "Film Studies",
+        "code": "fms"
+    },
+    {
+        "name": "Fine Arts &​ Humanities",
+        "code": "fah"
+    },
+    {
+        "name": "Food Science &​ Technology",
+        "code": "fst"
+    },
+    {
+        "name": "Food Service Management",
+        "code": "fsm"
+    },
+    {
+        "name": "Forensic Science",
+        "code": "for"
+    },
+    {
+        "name": "French",
+        "code": "fre"
+    },
+    {
+        "name": "Freshman Seminar",
+        "code": "frs"
+    },
+    {
+        "name": "Future Undergraduate Science Educators",
+        "code": "fse"
+    },
+    {
+        "name": "Gastroenterology",
+        "code": "gas"
+    },
+    {
+        "name": "Gender, Sexuality, &​ Women's Studies",
+        "code": "gsw"
+    },
+    {
+        "name": "General Medicine",
+        "code": "gmd"
+    },
+    {
+        "name": "Genetics",
+        "code": "ggg"
+    },
+    {
+        "name": "Geography",
+        "code": "geo"
+    },
+    {
+        "name": "Geology",
+        "code": "gel"
+    },
+    {
+        "name": "German",
+        "code": "ger"
+    },
+    {
+        "name": "Global Disease Biology",
+        "code": "gdb"
+    },
+    {
+        "name": "Global Studies",
+        "code": "glo"
+    },
+    {
+        "name": "Graduate Education",
+        "code": "grd"
+    },
+    {
+        "name": "Greek",
+        "code": "grk"
+    },
+    {
+        "name": "Health Informatics",
+        "code": "mhi"
+    },
+    {
+        "name": "Hebrew",
+        "code": "heb"
+    },
+    {
+        "name": "Hematology &​ Oncology",
+        "code": "hon"
+    },
+    {
+        "name": "Hindi/​Urdu",
+        "code": "hin"
+    },
+    {
+        "name": "History",
+        "code": "his"
+    },
+    {
+        "name": "Honors Challenge",
+        "code": "hnr"
+    },
+    {
+        "name": "Horticulture",
+        "code": "hrt"
+    },
+    {
+        "name": "Human Development",
+        "code": "hde"
+    },
+    {
+        "name": "Human Physiology",
+        "code": "hph"
+    },
+    {
+        "name": "Human Rights",
+        "code": "hmr"
+    },
+    {
+        "name": "Humanities",
+        "code": "hum"
+    },
+    {
+        "name": "Hydrologic Science",
+        "code": "hyd"
+    },
+    {
+        "name": "Immunology",
+        "code": "imm"
+    },
+    {
+        "name": "Infectious Diseases",
+        "code": "idi"
+    },
+    {
+        "name": "Integrated Studies",
+        "code": "ist"
+    },
+    {
+        "name": "Internal Medicine",
+        "code": "imd"
+    },
+    {
+        "name": "International Agricultural Development",
+        "code": "iad"
+    },
+    {
+        "name": "International Commercial Law",
+        "code": "icl"
+    },
+    {
+        "name": "International Relations",
+        "code": "ire"
+    },
+    {
+        "name": "Italian",
+        "code": "ita"
+    },
+    {
+        "name": "Japanese",
+        "code": "jpn"
+    },
+    {
+        "name": "Jewish Studies",
+        "code": "jst"
+    },
+    {
+        "name": "Landscape Architecture",
+        "code": "lda"
+    },
+    {
+        "name": "Latin",
+        "code": "lat"
+    },
+    {
+        "name": "Law",
+        "code": "law"
+    },
+    {
+        "name": "Linguistics",
+        "code": "lin"
+    },
+    {
+        "name": "Management",
+        "code": "mgt"
+    },
+    {
+        "name": "Management;​ Online",
+        "code": "mgv"
+    },
+    {
+        "name": "Management;​ Working Professional",
+        "code": "mgp"
+    },
+    {
+        "name": "Management;​ Working Professional Bay Area",
+        "code": "mgb"
+    },
+    {
+        "name": "Masters Preventive Veterinary Medicine",
+        "code": "mpm"
+    },
+    {
+        "name": "Materials Science Engineering",
+        "code": "ems"
+    },
+    {
+        "name": "Maternal &​ Child Nutrition",
+        "code": "mcn"
+    },
+    {
+        "name": "Mathematics",
+        "code": "mat"
+    },
+    {
+        "name": "Mechanical &​ Aeronautical Engineering",
+        "code": "mae"
+    },
+    {
+        "name": "Mechanical Engineering",
+        "code": "eme"
+    },
+    {
+        "name": "Medical Microbiology",
+        "code": "mmi"
+    },
+    {
+        "name": "Medical Pharmacology &​ Toxicology",
+        "code": "pha"
+    },
+    {
+        "name": "Medical Sciences",
+        "code": "mds"
+    },
+    {
+        "name": "Medicine &​ Epidemiology",
+        "code": "vme"
+    },
+    {
+        "name": "Medieval Studies",
+        "code": "mst"
+    },
+    {
+        "name": "Microbiology",
+        "code": "mib"
+    },
+    {
+        "name": "Microbiology",
+        "code": "mic"
+    },
+    {
+        "name": "Middle East/​South Asian Studies",
+        "code": "msa"
+    },
+    {
+        "name": "Military Science",
+        "code": "msc"
+    },
+    {
+        "name": "Molecular &​ Cellular Biology",
+        "code": "mcb"
+    },
+    {
+        "name": "Molecular Biosciences",
+        "code": "vmb"
+    },
+    {
+        "name": "Molecular, Cellular, &​ Integrative Physiology",
+        "code": "mcp"
+    },
+    {
+        "name": "Music",
+        "code": "mus"
+    },
+    {
+        "name": "Native American Studies",
+        "code": "nas"
+    },
+    {
+        "name": "Nematology",
+        "code": "nem"
+    },
+    {
+        "name": "Nephrology",
+        "code": "nep"
+    },
+    {
+        "name": "Neurobiology, Physiology, &​ Behavior",
+        "code": "npb"
+    },
+    {
+        "name": "Neurology",
+        "code": "neu"
+    },
+    {
+        "name": "Neuroscience",
+        "code": "nsc"
+    },
+    {
+        "name": "Neurosurgery",
+        "code": "nsu"
+    },
+    {
+        "name": "Nursing",
+        "code": "nrs"
+    },
+    {
+        "name": "Nutrition",
+        "code": "nut"
+    },
+    {
+        "name": "Nutritional Biology",
+        "code": "nub"
+    },
+    {
+        "name": "Obstetrics &​ Gynecology",
+        "code": "obg"
+    },
+    {
+        "name": "Ophthalmology",
+        "code": "opt"
+    },
+    {
+        "name": "Orthopaedic Surgery",
+        "code": "osu"
+    },
+    {
+        "name": "Otolaryngology",
+        "code": "oto"
+    },
+    {
+        "name": "Pathology",
+        "code": "pmd"
+    },
+    {
+        "name": "Pathology, Microbiology, &​ Immunology",
+        "code": "pmi"
+    },
+    {
+        "name": "Pediatrics",
+        "code": "ped"
+    },
+    {
+        "name": "Performance Studies",
+        "code": "pfs"
+    },
+    {
+        "name": "Persian",
+        "code": "per"
+    },
+    {
+        "name": "Pharmacology &​ Toxicology",
+        "code": "ptx"
+    },
+    {
+        "name": "Philosophy",
+        "code": "phi"
+    },
+    {
+        "name": "Physical Medicine &​ Rehabilitation",
+        "code": "pmr"
+    },
+    {
+        "name": "Physician Assistant Studies",
+        "code": "pas"
+    },
+    {
+        "name": "Physics",
+        "code": "phy"
+    },
+    {
+        "name": "Plant Biology (Graduate Group)",
+        "code": "pbi"
+    },
+    {
+        "name": "Plant Biology",
+        "code": "plb"
+    },
+    {
+        "name": "Plant Pathology",
+        "code": "plp"
+    },
+    {
+        "name": "Plant Science",
+        "code": "pls"
+    },
+    {
+        "name": "Plastic Surgery",
+        "code": "psu"
+    },
+    {
+        "name": "Political Science",
+        "code": "pol"
+    },
+    {
+        "name": "Population Biology",
+        "code": "pbg"
+    },
+    {
+        "name": "Population Health &​ Reproduction",
+        "code": "phr"
+    },
+    {
+        "name": "Portuguese",
+        "code": "por"
+    },
+    {
+        "name": "Professional Accountancy",
+        "code": "acc"
+    },
+    {
+        "name": "Psychiatry",
+        "code": "psy"
+    },
+    {
+        "name": "Psychology",
+        "code": "psc"
+    },
+    {
+        "name": "Public Health Sciences",
+        "code": "sph"
+    },
+    {
+        "name": "Pulmonary Medicine",
+        "code": "pul"
+    },
+    {
+        "name": "Punjabi",
+        "code": "pun"
+    },
+    {
+        "name": "Radiation Oncology",
+        "code": "ron"
+    },
+    {
+        "name": "Radiology-​Diagnostic",
+        "code": "rdi"
+    },
+    {
+        "name": "Radiology-​Nuclear Medicine",
+        "code": "rnu"
+    },
+    {
+        "name": "Religious Studies",
+        "code": "rst"
+    },
+    {
+        "name": "Rheumatology &​ Allergy",
+        "code": "ral"
+    },
+    {
+        "name": "Russian",
+        "code": "rus"
+    },
+    {
+        "name": "School of Veterinary Medicine",
+        "code": "vet"
+    },
+    {
+        "name": "Science &​ Society",
+        "code": "sas"
+    },
+    {
+        "name": "Science &​ Technology Studies",
+        "code": "sts"
+    },
+    {
+        "name": "Social Theory &​ Comparative History",
+        "code": "sth"
+    },
+    {
+        "name": "Sociology",
+        "code": "soc"
+    },
+    {
+        "name": "Soil Science",
+        "code": "ssc"
+    },
+    {
+        "name": "Spanish",
+        "code": "spa"
+    },
+    {
+        "name": "Statistics",
+        "code": "sta"
+    },
+    {
+        "name": "Study of Religion",
+        "code": "rel"
+    },
+    {
+        "name": "Surgery",
+        "code": "sur"
+    },
+    {
+        "name": "Surgical &​ Radiological Sciences",
+        "code": "vsr"
+    },
+    {
+        "name": "Sustainable Agriculture &​ Food Systems",
+        "code": "saf"
+    },
+    {
+        "name": "Technocultural Studies",
+        "code": "tcs"
+    },
+    {
+        "name": "Textiles &​ Clothing",
+        "code": "txc"
+    },
+    {
+        "name": "Transportation Technology &​ Policy",
+        "code": "ttp"
+    },
+    {
+        "name": "UC Davis Washington Center",
+        "code": "was"
+    },
+    {
+        "name": "University Writing Program",
+        "code": "uwp"
+    },
+    {
+        "name": "Urology",
+        "code": "uro"
+    },
+    {
+        "name": "Veterinary Clinical Rotation",
+        "code": "dvm"
+    },
+    {
+        "name": "Viticulture &​ Enology",
+        "code": "ven"
+    },
+    {
+        "name": "Wildlife, Fish, &​ Conservation Biology",
+        "code": "wfc"
+    },
+    {
+        "name": "Women's Studies",
+        "code": "wms"
+    }
+]
