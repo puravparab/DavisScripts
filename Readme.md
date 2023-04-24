@@ -1,5 +1,22 @@
 # Scripts for Davis Course Search
 
+## Installation
+Clone repository
+```
+git clone https://github.com/puravparab/DavisScripts.git
+cd DavisScripts
+```
+Get virtual environment running
+```
+pip install --user pipenv
+pipenv shell
+pipenv sync
+```
+Create .env file and setup environment variables
+```
+OPENAI=<Your OpenAI secret key>
+````
+
 ## Usage
 
 * #### course_download.py:
@@ -19,3 +36,6 @@ python get_subject_codes.py > subject_codes.json
 ```
 python get_all_courses.py
 ````
+
+* #### sematic_search.ipynb
+	Get embeddings for course_data.json and prompt them
