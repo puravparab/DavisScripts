@@ -2,6 +2,7 @@ data.json
 davis_course_embeddings.csv
 course_embeddings.csv
 course_embeddings_cleaned.csv
+pinecone_embeddings.json
 .env
 
 .ipynb_checkpoints

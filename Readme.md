@@ -39,3 +39,9 @@ python get_all_courses.py
 
 * #### sematic_search.ipynb
 	Get embeddings for course_data.json and prompt them
+
+* #### pinecone.py:
+	Take generated embeddings in course_embeddings.csv and turn them in json that can be used by pinecone
+```
+python pinecone.py > pinecone_embeddings.json
+````
