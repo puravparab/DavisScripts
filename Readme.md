@@ -12,7 +12,7 @@ pip install --user pipenv
 pipenv shell
 pipenv sync
 ```
-Create .env file and setup environment variables
+Rename .env.template to .env and setup environment variables
 ```
 OPENAI=<Your OpenAI secret key>
 ````
