@@ -1,4 +1,10 @@
 # Scripts for Davis Course Search
+All of the scripts and notebooks I used for Davis COurse Search including a webscraper for getting UC DAvis courses , creating embeddings and uploading them to a pinecone vector db
+
+## Requirements
+- `python 3.10`
+- OPEN AI Account
+- Pinecone Index`
 
 ## Installation
 Clone repository
@@ -12,9 +18,11 @@ pip install --user pipenv
 pipenv shell
 pipenv sync
 ```
-Rename .env.template to .env and setup environment variables
+Create .env file and setup environment variables
 ```
 OPENAI=<Your OpenAI secret key>
+PINECONE=<Add your Pinecone Index Key>
+PINECONE_ENV=<Pinecone environment>
 ````
 
 ## Usage
