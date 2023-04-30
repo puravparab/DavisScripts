@@ -2,7 +2,7 @@
 All of the scripts and notebooks I used for Davis COurse Search including a webscraper for getting UC DAvis courses , creating embeddings and uploading them to a pinecone vector db
 
 ## Requirements
-- `python 3.10`
+- `python 3.10
 - OPEN AI Account
 - Pinecone Index`
 
